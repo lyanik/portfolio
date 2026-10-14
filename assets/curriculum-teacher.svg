@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -26 640 426" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect y="-26" width="640" height="426" fill="#f6f5ef"/>
+<line x1="58" x2="616" y1="342.0" y2="342.0" stroke="#cdd4ca" stroke-width="1"/>
+<text x="46" y="346.0" text-anchor="end" font-size="13" fill="#51625b">1</text>
+<line x1="58" x2="616" y1="279.6" y2="279.6" stroke="#cdd4ca" stroke-width="1"/>
+<text x="46" y="283.6" text-anchor="end" font-size="13" fill="#51625b">2</text>
+<line x1="58" x2="616" y1="217.2" y2="217.2" stroke="#cdd4ca" stroke-width="1"/>
+<text x="46" y="221.2" text-anchor="end" font-size="13" fill="#51625b">3</text>
+<line x1="58" x2="616" y1="154.8" y2="154.8" stroke="#cdd4ca" stroke-width="1"/>
+<text x="46" y="158.8" text-anchor="end" font-size="13" fill="#51625b">4</text>
+<line x1="58" x2="616" y1="92.4" y2="92.4" stroke="#cdd4ca" stroke-width="1"/>
+<text x="46" y="96.4" text-anchor="end" font-size="13" fill="#51625b">5</text>
+<line x1="58" x2="616" y1="30.0" y2="30.0" stroke="#cdd4ca" stroke-width="1"/>
+<text x="46" y="34.0" text-anchor="end" font-size="13" fill="#51625b">6</text>
+<text x="58.0" y="364" text-anchor="middle" font-size="12" fill="#51625b">0</text>
+<text x="151.8" y="364" text-anchor="middle" font-size="12" fill="#51625b">20</text>
+<text x="245.6" y="364" text-anchor="middle" font-size="12" fill="#51625b">40</text>
+<text x="339.3" y="364" text-anchor="middle" font-size="12" fill="#51625b">60</text>
+<text x="433.1" y="364" text-anchor="middle" font-size="12" fill="#51625b">80</text>
+<text x="526.9" y="364" text-anchor="middle" font-size="12" fill="#51625b">100</text>
+<text x="616.0" y="364" text-anchor="middle" font-size="12" fill="#51625b">120</text>
+<path d="M58.0,342.0 H62.7 V342.0 H67.4 V342.0 H72.1 V342.0 H76.8 V342.0 H81.4 V342.0 H86.1 V342.0 H90.8 V342.0 H95.5 V342.0 H100.2 V342.0 H104.9 V342.0 H109.6 V342.0 H114.3 V342.0 H119.0 V342.0 H123.6 V342.0 H128.3 V279.6 H133.0 V279.6 H137.7 V279.6 H142.4 V279.6 H147.1 V279.6 H151.8 V342.0 H156.5 V279.6 H161.2 V342.0 H165.8 V342.0 H170.5 V217.2 H175.2 V217.2 H179.9 V217.2 H184.6 V217.2 H189.3 V217.2 H194.0 V279.6 H198.7 V217.2 H203.4 V342.0 H208.1 V342.0 H212.7 V279.6 H217.4 V342.0 H222.1 V154.8 H226.8 V154.8 H231.5 V154.8 H236.2 V154.8 H240.9 V154.8 H245.6 V154.8 H250.3 V154.8 H254.9 V154.8 H259.6 V154.8 H264.3 V92.4 H269.0 V92.4 H273.7 V92.4 H278.4 V92.4 H283.1 V92.4 H287.8 V217.2 H292.5 V217.2 H297.1 V217.2 H301.8 V217.2 H306.5 V342.0 H311.2 V279.6 H315.9 V279.6 H320.6 V279.6 H325.3 V30.0 H330.0 V30.0 H334.7 V30.0 H339.3 V30.0 H344.0 V92.4 H348.7 V30.0 H353.4 V92.4 H358.1 V217.2 H362.8 V217.2 H367.5 V217.2 H372.2 V217.2 H376.9 V154.8 H381.5 V154.8 H386.2 V154.8 H390.9 V154.8 H395.6 V154.8 H400.3 V92.4 H405.0 V342.0 H409.7 V342.0 H414.4 V30.0 H419.1 V279.6 H423.7 V92.4 H428.4 V30.0 H433.1 V30.0 H437.8 V342.0 H442.5 V154.8 H447.2 V217.2 H451.9 V30.0 H456.6 V342.0 H461.3 V92.4 H465.9 V92.4 H470.6 V279.6 H475.3 V279.6 H480.0 V279.6 H484.7 V217.2 H489.4 V217.2 H494.1 V217.2 H498.8 V217.2 H503.5 V217.2 H508.2 V217.2 H512.8 V30.0 H517.5 V154.8 H522.2 V217.2 H526.9 V217.2 H531.6 V154.8 H536.3 V154.8 H541.0 V217.2 H545.7 V92.4 H550.4 V342.0 H555.0 V342.0 H559.7 V92.4 H564.4 V92.4 H569.1 V92.4 H573.8 V92.4 H578.5 V342.0 H583.2 V342.0 H587.9 V279.6 H592.6 V30.0 H597.2 V217.2 H601.9 V342.0 H606.6 V342.0 H611.3 V342.0 H616.0 V342.0" fill="none" stroke="#183a34" stroke-width="2" stroke-linejoin="round"/>
+<rect x="58.0" y="30" width="211.0" height="312" fill="#9fbf2a" opacity=".13"/>
+<text x="62.7" y="18" font-size="12" fill="#183a34" font-weight="600">easy → hard</text>
+<text x="423.7" y="18" font-size="12" fill="#183a34" font-weight="600">mixing levels</text>
+<text x="337.0" y="388" text-anchor="middle" font-size="13" fill="#183a34">Teacher step</text>
+<text transform="translate(18 186.0) rotate(-90)" text-anchor="middle" font-size="13" fill="#183a34">Difficulty chosen (operations)</text>
+</svg>
