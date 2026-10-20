@@ -8,3 +8,4 @@
 @media(max-width:600px){.mission-steps{grid-template-columns:1fr}}
 @media(min-width:801px){.section{padding:48px 0}.section.connect{padding:44px 50px}.hero{padding:56px 0 48px}.project{padding:30px 0}}
 .earlier{border-top:0;margin-top:0;padding:22px 0 0}
+@media(min-width:801px){.highlights{grid-template-columns:repeat(3,1fr);gap:28px 30px}}
