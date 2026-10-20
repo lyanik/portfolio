@@ -9,3 +9,9 @@
 @media(min-width:801px){.section{padding:48px 0}.section.connect{padding:44px 50px}.hero{padding:56px 0 48px}.project{padding:30px 0}}
 .earlier{border-top:0;margin-top:0;padding:22px 0 0}
 @media(min-width:801px){.highlights{grid-template-columns:repeat(3,1fr);gap:28px 30px}}
+.concept .logos{padding:10px 14px;gap:18px}.concept .logos img{height:38px}
+.tags li{font-size:11px}footer{font-size:12px;line-height:1.5}
+h1{letter-spacing:-3px}
+@media(min-width:801px){.section-heading{display:grid;grid-template-columns:1fr 2fr;gap:60px}.section-heading>p{max-width:560px;margin-top:8px}.journey{grid-template-columns:1fr 2fr;gap:60px}}
+@media(max-width:800px){.about h2,.section-heading h2,.journey h2{margin-bottom:16px}}
+@media(max-width:560px){h1{letter-spacing:-1.5px}.hero .portrait{order:0;max-width:220px}}
